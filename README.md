@@ -1,12 +1,13 @@
 **Introduction**
 
-This is a parking lot management system developed in SpringBoot.And Creating the REST API.
+This is a parking lot management system developed in SpringBoot and ReactJS.And Creating the REST API.
 
 **Requirements**
 
 1. Install Open JDK-11
 2. MYSQL server
 3. Setup a Maven 4.0.0 project
+4. ReactJS(UI)
 
 **Running the Application**
 
@@ -183,13 +184,13 @@ Application contains ParkingApplication.java file . This file contains the main 
 
 **Parking**
 
-    `Park Your Vehicle`
+    1. Park Your Vehicle
     
-    `Unpark Your Vehicle`
+    2. Unpark Your Vehicle
     
-    `Display Parking List`
+    3. Display Parking List
     
-    `Display Customer List`
+    4. Display Customer List
 
 **Park Your Vehicle**
 
