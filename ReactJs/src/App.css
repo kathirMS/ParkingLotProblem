@@ -1,0 +1,48 @@
+
+.App {
+  text-align: center;
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Feconomictimes.indiatimes.com%2Findustry%2Fauto%2Fcars-uvs%2Fmclaren-elva-the-newest-supercar-has-no-windshield-roof-or-windows%2Felva-mclarens-latest-sports-car%2Fslideshow%2F72081976.cms&psig=AOvVaw3VmZ9ffPsdB5dCtYkpkfks&ust=1603368065434000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJig_tHRxewCFQAAAAAdAAAAABAD");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
